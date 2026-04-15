@@ -59,21 +59,6 @@ I thrive in environments where data is at the center of decision-making, and I a
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code)
 
----
-
-## 📊 Featured Projects
-
-### 🚖 OLA Ride Data Analysis
-✔ Analyzed ride patterns, cancellations & revenue trends  
-✔ Tools: SQL / Power BI  
-
-### 🎵 Music Store Analysis (SQL)
-✔ Extracted customer insights & top-selling trends  
-✔ Advanced SQL queries (JOIN, GROUP BY, Subqueries)  
-
-### ✈️ Airline Dashboard
-✔ Built interactive Power BI dashboard  
-✔ Visualized flight & passenger insights  
 
 ---
 
