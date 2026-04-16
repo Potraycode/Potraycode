@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FAFAFA&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shubham+Tomar;Data+Analyst;Power+BI+%7C+Tableau+%7C+Excel+%7C+SQL+%7C;Turning+Data+Into+Insights+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FAFAFA&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Shubham+Tomar;Data+Analyst;Power+BI+%7C+Python+%7C+Excel+%7C+SQL+%7C;Turning+Data+Into+Insights+📊" />
 </p>
 
 ---
